@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MichaelDCooper 
 - 🏖️ Los Angeles, California
-- 💻 Platform Software Enginer @Spotify
+- 💻 Platform Software Engineer @Spotify
 - ☕ Talk to me about specialty coffee and baseball 
-- 👀 I’m interested in Go Rust and Linux
-- 🌱 I’m currently learning Rust Kubernetes and engineering for observability
+- 👀 I’m interested in Go, C++, Rust and Linux
+- 🌱 I’m currently learning Rust, Kubernetes, and engineering for observability
 - 📫 How to reach me: Email
 
 <!---
