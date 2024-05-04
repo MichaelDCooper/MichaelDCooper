@@ -3,7 +3,7 @@
 - 💻 Platform Software Engineer @Spotify
 - ☕ Talk to me about specialty coffee and baseball 
 - 👀 I’m interested in Go, C++, Rust and Linux
-- 🌱 I’m currently learning Rust, Kubernetes, and engineering for observability
+- 🌱 I’m currently interested in Deep Learning and ML Ops
 - 📫 How to reach me: Email
 
 <!---
